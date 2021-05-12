@@ -1,0 +1,24 @@
+===================================================================================================================================================================
+Division
+===================================================================================================================================================================
+Division, deputy division is one of the four basic arithmetic operations in mathematics, where the others are addition, subtraction and multiplication. 
+The division of natural numbers is the process of calculating the number of times one number is contained in another number. 
+20 apples are divided into four groups of five apples, which means that twenty divided into five is equal to four, or four is the result of dividing twenty by five.
+This is denoted as 20/5 = 4 or
+20
+-  = 4.
+5
+
+The division has two operands:
+
+divisible - a number (or mathematical object) that is divided;
+divisor - a number (or mathematical object) divided by.
+The result of division is called the fraction.
+Division - a binary operation that is inverse to multiplication; 
+if a x b = c, then a = c/b, provided that b is not zero. 
+The division by zero for real numbers and in most other cases is indeterminate, because if b = 0, 
+then a cannot be obtained from b and c, because then c will always be equal to zero regardless of a.
+===================================================================================================================================================================
+Control questions:
+What is an division?
+===================================================================================================================================================================

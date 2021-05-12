@@ -1,0 +1,20 @@
+===============================================================================================================================
+Subtraction
+===============================================================================================================================
+Subtraction is a two-digit mathematical operation inverse to addition. Subtraction is usually indicated by the sign "-" (minus).
+In expression
+a-b = x,
+a is called decreasing,
+b is called a subtractor,
+x is the result of subtraction, called the difference.
+Subtraction is written with a minus sign "-" between the terms; 
+which is the use of infix notation. 
+The result is written after the equal sign. 
+Example,
+2-1 = 1 (in words, "two minus one equals one")
+4-2 = 2 (in words, "four minus two equals two")
+6-3 = 3 (in words, "six minus three equals three")
+================================================================================================================================
+Control questions:
+What is an subtraction?
+================================================================================================================================

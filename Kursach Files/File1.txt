@@ -1,0 +1,16 @@
+===================================================================================================================
+Addition
+===================================================================================================================
+Addition is a binary arithmetic operation, the essence of which is to combine mathematical objects.
+The result of adding the numbers a and b is a number called the sum of the numbers a and b and is denoted by a + b.
+This is one of four elementary arithmetic operations, along with subtraction, multiplication, and division. 
+Adding two natural numbers is the sum of these quantities. 
+For example, a combination of three and two apples gives a total of 5 apples. 
+This observation is equivalent to the algebraic expression 3 + 2 = 5 (3 plus 2 equals 5).
+
+The operands of the addition operation are called terms, the result is the sum. 
+The operation inverted before addition is called subtraction.
+===================================================================================================================
+Control questions:
+What is an addition?
+===================================================================================================================

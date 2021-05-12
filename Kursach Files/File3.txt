@@ -1,0 +1,27 @@
+==============================================================================================================================================
+Multiplication 
+==============================================================================================================================================
+Multiplication is a binary operation on mathematical objects.
+Multiplication operands are called multipliers, the result is the product.
+Denoted by a cross 5x3, by a dot 5 . 3, asterisk 5 * 3. 
+In algebraic expressions, the multiplication sign is usually omitted.
+
+The operation of multiplying natural numbers is determined by the addition operation. 
+
+In order to multiply the natural number n by the natural number m it is necessary to calculate the sum in which the number n is taken m times
+n x m = n + n + ... + n.
+
+Example,
+
+3 x 4 = 3 + 3 + 3 + 3 = 12
+
+Multiplication of natural numbers is commutative: from permutation of factors the product does not change.
+The multiplication of integers is reduced to the multiplication of natural numbers - the absolute values ​​of these numbers,
+and the sign of the product is determined by the signs of the factors.
+The product is taken with a plus sign if both factors are positive or negative, with a minus sign if the multipliers have different signs.
+
+The result of multiplying any number by zero is zero.
+==============================================================================================================================================
+Control questions:
+What is an multiplication?
+==============================================================================================================================================
